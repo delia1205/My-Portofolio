@@ -49,9 +49,13 @@ This is my personal developer portfolio website, built using **React**, **TypeSc
 
 ## 🌐 Deployment
 
-This project was deployed using GitHub Pages:
+This project was deployed using Vercel:
 
 - [Vercel](https://vercel.com/)
+
+at this URL:
+
+- [Delia's Portofolio](https://delia-portofolio.vercel.app/)
 
 ---
 
