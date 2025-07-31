@@ -19,6 +19,8 @@ This is my personal developer portfolio website, built using **React**, **TypeSc
 
 ## 📁 Project Structure
 
+```
+
 ├── public/
 │ └── cv.pdf # My downloadable resume
 ├── src/
@@ -29,6 +31,8 @@ This is my personal developer portfolio website, built using **React**, **TypeSc
 ├── index.css # Global styles with Tailwind theming
 ├── vite.config.ts
 └── README.md
+
+```
 
 ---
 
