@@ -51,7 +51,7 @@ This is my personal developer portfolio website, built using **React**, **TypeSc
 
 This project was deployed using GitHub Pages:
 
-- [GitHub Pages](https://pages.github.com/) (via `vite-plugin-gh-pages` or manual)
+- [Vercel](https://vercel.com/)
 
 ---
 
